@@ -99,7 +99,6 @@ CREATE TABLE Asistencias (
 
 
 --Inserción de Datos (DML)
-
 -- 1. 5 Tipos de Membresías
 INSERT INTO Membresias (Nombre, Costo, DuracionDias) VALUES
 ('Mensual', 50.00, 30),
